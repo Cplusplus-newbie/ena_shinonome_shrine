@@ -1,0 +1,39 @@
+body {
+  background-color: #ca8;
+}
+h1 {
+  color: rgb(71, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 300%;
+}
+p {
+  color: rgb(71, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+pre {
+  color: rgb(71, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+
+
+button{
+  background-color: rgb(71, 0, 0);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover{
+  background-color: rgb(42, 0, 0);
+}
+
+#display {
+  color: rgb(71, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
